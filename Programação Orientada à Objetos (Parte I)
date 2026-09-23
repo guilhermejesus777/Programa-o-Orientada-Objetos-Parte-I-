@@ -43,7 +43,11 @@ class Aluno {
 
 const aluno1 = new Aluno("Ana", 7.5);
 console.log(aluno1.aprovado()); 
+
+
                                  4 this / self
+
+
 class Retangulo {
   constructor(public largura: number, public altura: number) {}
 
